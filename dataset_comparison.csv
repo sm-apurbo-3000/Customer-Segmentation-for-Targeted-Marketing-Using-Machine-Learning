@@ -1,0 +1,7 @@
+Metric,"Original Dataset
+(2,208 customers)","Online Retail II
+(larger dataset)"
+Dataset Size,"2,208","5,763"
+Silhouette Score,0.3056,0.5335
+Davies-Bouldin,1.1351,0.6096
+Calinski-Harabasz,1295.1,9314.2

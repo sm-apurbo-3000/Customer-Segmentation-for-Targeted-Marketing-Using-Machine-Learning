@@ -1,0 +1,12 @@
+Model,Algorithm,N_Clusters,Silhouette,Davies_Bouldin,Calinski_Harabasz
+KMeans_K2,K-Means,2,0.56,0.7367,4922.3
+KMeans_K3,K-Means,3,0.5364,0.6221,8039.6
+KMeans_K4,K-Means,4,0.5335,0.6096,9314.2
+KMeans_K5,K-Means,5,0.4901,0.6448,9213.2
+KMeans_K6,K-Means,6,0.4871,0.6538,10215.3
+Agglomerative_ward,Hierarchical,4,0.4641,0.6079,6424.4
+Agglomerative_complete,Hierarchical,4,0.5483,0.6027,1693.6
+Agglomerative_average,Hierarchical,4,0.6237,0.5039,1089.3
+GMM_full,GMM,4,0.3458,1.1148,4051.4
+GMM_tied,GMM,4,0.5304,0.5903,8616.7
+GMM_diag,GMM,4,0.3969,0.9553,5659.5
